@@ -1,0 +1,13 @@
+.select-container {
+  height: 40px;
+  width: 100%;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+}
+
+.select-container .select-states {
+  width: 100%;
+}
+/*# sourceMappingURL=SelectButton.css.map */
